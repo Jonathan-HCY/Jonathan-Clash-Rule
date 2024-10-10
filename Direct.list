@@ -25,11 +25,9 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 # 看到全世界
-DOMAIN-SUFFIX,epg.d-net.tw  
-DOMAIN-SUFFIX,uri.tvrohd.cc 
-DOMAIN-SUFFIX,air.tvrohd.cc
-DOMAIN-SUFFIX,allepg.d-net.tw
-DOMAIN-SUFFIX,sepg.d-net.tw
+DOMAIN-SUFFIX,d-net.tw  
+DOMAIN-SUFFIX,utvrohd.cc 
+
 
 # 360
 DOMAIN-SUFFIX,360.com
