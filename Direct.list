@@ -25,11 +25,11 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 # 看到全世界
-IP-CIDR,38.205.27.0/24,no-resolve
-IP-CIDR,38.197.27.0/24,no-resolve
-IP-CIDR,37.109.27.0/24,no-resolve
-IP-CIDR,64.62.198.0/24,no-resolve
-IP-CIDR,36.156.98.0/24,no-resolve
+DOMAIN-SUFFIX,epg.d-net.tw  
+DOMAIN-SUFFIX,uri.tvrohd.cc 
+DOMAIN-SUFFIX,air.tvrohd.cc
+DOMAIN-SUFFIX,allepg.d-net.tw
+DOMAIN-SUFFIX,sepg.d-net.tw
 
 # 360
 DOMAIN-SUFFIX,360.com
